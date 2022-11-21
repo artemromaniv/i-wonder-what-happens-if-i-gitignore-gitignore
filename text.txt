@@ -1,0 +1,5 @@
+Nothing special, you just can't publish the .gitignore file
+
+I also created a second text file and wrote it's name to .gitignore and .gitignore still gitignores files while being gitignored
+
+I destroyed .gitignore with it's own power
